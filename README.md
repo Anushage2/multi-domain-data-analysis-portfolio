@@ -33,7 +33,6 @@ statistical methods, and actionable business insights using Python.
 - visualizations/ – Generated charts
 - src/ – Reusable analysis functions
 - docs/ – Documentation
-- presentation/ – Slides
 - requirements.txt – Dependencies
 - portfolio_overview.md – Project summary
 - README.md – This file
